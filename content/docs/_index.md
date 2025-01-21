@@ -18,5 +18,8 @@ func main() {
 ```
 
 ```python {filename="ml.py"}
-print('Hello world')
+print('Hello world!!')
 ```
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
