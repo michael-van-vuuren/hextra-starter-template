@@ -19,16 +19,16 @@ markup:
 menu:
   main:
     - name: Introduction
-      pageRef: /about
+      pageRef: /introduction
       weight: 1
     - name: EDA
-      pageRef: /about
+      pageRef: /eda
       weight: 2
     - name: Models
       pageRef: /docs
       weight: 3
     - name: Conclusion
-      pageRef: /about
+      pageRef: /conclusion
       weight: 4
     - name: About
       pageRef: /about

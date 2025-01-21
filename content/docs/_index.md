@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Models
 next: first-page
 ---
 

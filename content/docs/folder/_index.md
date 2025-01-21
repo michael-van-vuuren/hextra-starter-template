@@ -1,5 +1,5 @@
 ---
-title: Folder
+title: Folder 1
 type: docs
 prev: docs/first-page
 next: docs/folder/leaf
