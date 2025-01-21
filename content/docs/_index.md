@@ -16,3 +16,7 @@ func main() {
     fmt.Println("Hello, World!")
 }
 ```
+
+```python {filename="ml.py"}
+print('Hello world')
+```
